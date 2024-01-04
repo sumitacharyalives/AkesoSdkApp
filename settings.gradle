@@ -1,0 +1,4 @@
+include ':app'
+include ':akesoeyecare'
+include ':akesocaresdk'
+include ':models'
